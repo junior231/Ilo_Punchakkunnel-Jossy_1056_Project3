@@ -1,0 +1,112 @@
+
+	HOMEPAGE
+
+Container - width: 958px
+	    margin-top: 20px
+	    margin-bottom: 40px
+
+mainHeader - width: 951px
+	     height: 197px
+
+topBar -  width: 949px
+	  height: 38px
+	  margin-top: 5px
+
+Logo - width: 142px
+       height: 130px
+       margin-top: 30px
+       margin-left: 10px
+
+mainNav - width: 516px
+	  height: 60px
+          margin-top: 60px
+
+heroimage - width: 954px
+	    height: 223px
+            margin-top: 27px
+
+Text1 - width: 355px
+	height: 190px
+	margin-top: 20px
+	margin-left: 40px
+
+Text2 - width: 355px
+	height: 190px
+	margin-top: 20px
+	margin-right: 40px
+
+Image1 - width: 186px
+	 height: 196px
+         margin-top: 30px
+	 margin-left: 60px
+
+Image2 - width: 186px
+	 height: 196px
+         margin-top: 30px
+	 margin-left: 20px
+	 margin-right: 20px
+
+Image3 - width: 186px
+	 height: 196px
+         margin-top: 30px
+	 margin-right: 20px
+
+Image4 - width: 186px
+	 height: 196px
+         margin-top: 30px
+
+Text3 - width: 358px
+	height: 235px
+        margin-top: 20px
+	margin-left: 40px
+	margin-right: 40px
+
+Text4 - width: 358px
+	height: 235px
+        margin-top: 20px
+	margin-right: 40px
+
+ContentImage - width: 194px
+	       height: 196px
+               margin-left:20px
+
+Text5 - width: 640px
+	height: 250px
+        margin-right: 20px
+
+MainFooter - width: 952px
+	     height: 222px
+             margin-top: 40px
+
+		NEWSLETTER PAGE
+
+item1 - width: 260px
+	height: 177px
+        margin-left: 40px
+
+item2 - width: 260px
+	height: 177px
+        margin-left: 40px
+	margin-right: 60px
+
+item3 - width: 152px
+	height: 180px
+        margin-left: 20px
+
+item4 - width: 202px
+	height: 167px
+        margin-left: 60px
+	margin-right: 40px
+
+item5 - width: 202px
+	height: 167px
+        margin-left: 40px
+	margin-right: 40px
+
+item6 - width: 202px
+	height: 167px
+        margin-left: 40px
+
+item7 - width: 947px
+	height: 101px
+        margin-top: 30px
